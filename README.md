@@ -1,4 +1,4 @@
-# Internet Programming — Assignments 24–34
+# Internet Programming 
 
 JavaScript for the **“Programming on the Internet”** course at the **University of Western Macedonia**.
 
