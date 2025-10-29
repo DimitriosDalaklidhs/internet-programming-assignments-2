@@ -23,9 +23,9 @@ This set of assignments focuses on **arrays**, **objects**, and **functional pro
 ---
 
 ## Skills Practiced
-- JavaScript array methods (`map`, `filter`, `reduce`, `sort`)
-- Object manipulation
-- Functional programming
-- Modular code design
+JavaScript array methods (`map`, `filter`, `reduce`, `sort`)
+  Object manipulation
+  Functional programming
+  Modular code design
 
 
