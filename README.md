@@ -1,4 +1,4 @@
-# Internet Programming — Coursework (University of Western Macedonia)
+# Internet Programming: Coursework (University of Western Macedonia)
 
 Assignment solutions for the *Programming on the Internet* course. The repository is kept here primarily to demonstrate version control habits, project organization, and the ability to work across multiple languages in an academic context.
 
