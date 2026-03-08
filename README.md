@@ -2,7 +2,7 @@
 
 Assignment solutions for the *Programming on the Internet* course. The repository is kept here primarily to demonstrate version control habits, project organization, and the ability to work across multiple languages in an academic context.
 
-> **Note:** JavaScript is not my primary language. These are coursework exercises, not production-level JS.
+> **Note:** JavaScript is not my primary language. These are coursework exercises, not production ready JS.
 
 ---
 
